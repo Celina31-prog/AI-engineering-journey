@@ -1,6 +1,6 @@
 # AI-engineering-journey
 Documenting my journey to becoming an AI Engineer.
-# AI Engineering Journey 🚀
+
 
 Hi! I'm Somtochi, a Computer Science student at Covenant University.
 
